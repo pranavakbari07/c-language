@@ -3,5 +3,8 @@
 
 main(){
 
-    printf("helo");
+    printf("hello");
+    printf("hello");
+    printf("hello");
+    printf("hello");
 }
